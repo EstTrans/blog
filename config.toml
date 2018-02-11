@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "EstTrans"
+theme = "kiera"
+
+[params]
+    tagline = "Par des trans, pour les trans"
+
+[author]
+    github = "EstTrans"
